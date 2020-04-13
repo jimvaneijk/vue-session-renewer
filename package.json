@@ -1,0 +1,27 @@
+{
+    "name": "vue-session-renewer",
+    "version": "0.1.0",
+    "description": "Renew your login session if it's run out of time. It gives you an login modal with only the password field.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jimvaneijk/vue-session-renewer.git"
+    },
+    "keywords": [
+        "Vue",
+        "Session",
+        "Laravel",
+        "Login",
+        "Modal",
+        "Password"
+    ],
+    "author": "Jim van Eijk",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jimvaneijk/vue-session-renewer/issues"
+    },
+    "homepage": "https://www.jimvaneijk.com/vue-session-renewer"
+}
